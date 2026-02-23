@@ -62,7 +62,7 @@ If any of these are missing or named differently, the script will raise a KeyErr
 Update the file_path variable to point to your CSV file.
 Run:
 ```
-python your_script_name.py
+python assignment 4 scipy.py
 ```
 
 You should see console output including:
